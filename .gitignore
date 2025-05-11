@@ -1,2 +1,4 @@
 .env
 data/*.csv
+.zip
+glove.6B.*
